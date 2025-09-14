@@ -8,4 +8,4 @@ This project demonstrates a simple data engineering pipeline that loads raw Nash
 - Postgres as the storage layer, accessible through pgAdmin or SQL clients such as DBeaver.
 - Environment variables managed with a `.env` file for reproducibility.
 
-## Project Structure
+
